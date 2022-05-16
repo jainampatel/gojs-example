@@ -1,0 +1,13 @@
+.diagram-component-overview {
+    float: right;
+    margin-right: 20%;
+    height: 50vh;
+    width: 50vw;
+}
+
+.overview-component {
+    float: left;
+    margin-left: 0px;
+    height: 20vh;
+    width: 20vw;
+}
